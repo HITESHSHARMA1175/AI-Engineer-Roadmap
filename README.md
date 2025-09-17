@@ -53,7 +53,7 @@ This repo will help me:
 ### 🟢 November 21, 2025 → **Day 1**
 - ✅ Python Basics: Variables, Strings, Numbers  
 - ✅ Built a simple **string formatter program**  
-- 📂 Code: [Day1_Python_Basics](./Day1_Python_Basics)  
+- 📂 Code: [AI-Engineer-Roadmap-Skeleton](.AI-Engineer-Roadmap-skeleton)  
 
 > I’ll be updating this section **daily** with what I learned, what I built, and links to code/projects.  
 
