@@ -51,9 +51,10 @@ This repo will help me:
 ## 📅 Day-by-Day Progress  
 
 ### 🟢 November 21, 2025 → Month 1 → Week 1 → Day 1
-- ✅ Python Basics: Variables, Strings, Numbers
-- ✅ Built a simple **string formatter program**
-- 📂 Code: [Day001](./Month1_CoreFoundations/Week1_Python/Day001) 
+### 🟢 Day 1 | Month 1 → Week 1 | November 21, 2025
+**Topics Covered:** Python Basics – Variables, Strings, Numbers  
+**Tasks Completed:** Built a simple string formatter program  
+**Code & Notes Directory:** AI-Engineer-Roadmap-Skeleton/Month1_CoreFoundations/Week1_Python/Day001
 
 > I’ll be updating this section **daily** with what I learned, what I built, and links to code/projects.  
 
