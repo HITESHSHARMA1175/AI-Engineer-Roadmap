@@ -4,5 +4,4 @@
 def main():
     print("Add your code for Day 6 here")
 
-if __name__ == '__main__':
-    main()
+print (main) 
