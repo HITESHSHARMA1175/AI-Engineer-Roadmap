@@ -6,4 +6,3 @@ def main():
 
  print (main) 
 
-print("hello")
